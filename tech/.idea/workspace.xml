@@ -21,13 +21,43 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="15408630895936.jpg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="15408630895936.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/image/15408630895936.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="最小生成树-Prim算法.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/image/最小生成树-Prim算法.png">
+      <file leaf-file-name="15408629383761.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image/15408629383761.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="15408143055951.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image/15408143055951.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="15404850856328.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/image/15404850856328.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="15408631135541.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image/15408631135541.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="15409408584219.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image/15409408584219.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="15409408786614.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image/15409408786614.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="15409404713494.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image/15409404713494.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -178,12 +208,12 @@
       <workItem from="1540426426671" duration="2225000" />
       <workItem from="1540480202956" duration="2266000" />
       <workItem from="1540821903466" duration="1227000" />
-      <workItem from="1540940360002" duration="779000" />
+      <workItem from="1540940360002" duration="1186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18454000" />
+    <option name="totallyTimeSpent" value="18861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="23" width="1920" height="1057" extended-state="6" />
@@ -196,7 +226,7 @@
       <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="8" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.22838847" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.31163287" />
       <window_info id="Designer" order="0" />
       <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.24174654" />
       <window_info anchor="right" id="Database" order="3" />
@@ -294,14 +324,38 @@
     <entry file="file://$PROJECT_DIR$/image/最小生成树-Prim算法.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/image/data/15196373188562.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/image/15159748110584.jpg" />
     <entry file="file://$PROJECT_DIR$/image/15399068458792.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/image/data/15196373188562.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/15408631799246.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/15409408786614.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/15409408584219.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/15409404713494.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/15408631135541.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/image/15408630895936.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/15408629383761.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/15408143055951.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/15404850856328.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
