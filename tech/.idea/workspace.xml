@@ -21,13 +21,8 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="15408630895936.jpg" pinned="false" current-in-tab="false">
+      <file leaf-file-name="15408630895936.jpg" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/image/15408630895936.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="15408629383761.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/image/15408629383761.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -36,7 +31,7 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="15404850856328.jpg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="15404850856328.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/image/15404850856328.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -79,7 +74,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1491" />
+    <option name="x" value="35" />
     <option name="y" value="23" />
     <option name="width" value="1405" />
     <option name="height" value="877" />
@@ -208,12 +203,12 @@
       <workItem from="1540426426671" duration="2225000" />
       <workItem from="1540480202956" duration="2266000" />
       <workItem from="1540821903466" duration="1227000" />
-      <workItem from="1540940360002" duration="1186000" />
+      <workItem from="1540940360002" duration="2516000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18861000" />
+    <option name="totallyTimeSpent" value="20191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="23" width="1920" height="1057" extended-state="6" />
@@ -346,16 +341,16 @@
     <entry file="file://$PROJECT_DIR$/image/15408631135541.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/image/15408630895936.jpg">
+    <entry file="file://$PROJECT_DIR$/image/15408143055951.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/15404850856328.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/image/15408629383761.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/image/15408143055951.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/15404850856328.jpg">
+    <entry file="file://$PROJECT_DIR$/image/15408630895936.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
